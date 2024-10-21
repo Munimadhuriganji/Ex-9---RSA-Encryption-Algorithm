@@ -2,11 +2,13 @@
 # AIM:
 To Implement RSA Encryption Algorithm in C Program.
 # ALOGORITHM:
+```
 1.Select 2 prime numbers p and q.
 2.Calculate n and pi(n).
 3.Choose small number e.
 4.Calculate d.
 5.Perform encryption and decryption and get the outputs correspondingly.
+```
 
 # PROGRAM:
 ```
